@@ -28,10 +28,10 @@ This is a personal portfolio website built with **React** and **Vite**. It showc
 Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 # Clone this project
-$ git clone https://github.com/mmazitov/subscribe-form
+$ git clone https://github.com/mmazitov/react-portfolio
 
 # Access
-$ cd subscribe-form
+$ cd react-portfolio
 
 # Install the dependencies using Yarn or npm:
 $ yarn install or $ npm install

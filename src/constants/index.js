@@ -12,7 +12,7 @@ export const EXPERIENCES = [
 	{
 		year: 'Mar 2016 - Sep 2024',
 		role: 'Front-end developer',
-		company: 'p2h.com, Ukraine',
+		company: ' p2h.com, Ukraine',
 		description: `Developed themes using October CMS, trained newcomers, managed and led a team, communicate with clients, assisted team members and conducted code review.`,
 		technologies: [
 			'Pug',
@@ -37,7 +37,7 @@ export const EXPERIENCES = [
 	{
 		year: 'May 2015 - Feb 2016',
 		role: 'Front-end developer',
-		company: 'DEMING, Ukraine',
+		company: ' DEMING, Ukraine',
 		description: `Development of desktop, mobile, and responsive versions of websites. The main focus was on creating websites for online stores and real estate agencies. Mentoring newcomers and fixing issues in old projects.`,
 		technologies: [
 			'Pug',
@@ -53,7 +53,7 @@ export const EXPERIENCES = [
 	{
 		year: 'Sep 2013 - Mar 2015',
 		role: 'Markup developer',
-		company: 'html-cafe.com, Ukraine',
+		company: ' html-cafe.com, Ukraine',
 		description: `Development of desktop, mobile, and responsive versions of websites. The main focus was on creating websites for online streaming platform.`,
 		technologies: [
 			'HTML/CSS',

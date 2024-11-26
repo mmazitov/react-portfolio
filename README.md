@@ -14,13 +14,13 @@ This is a personal portfolio website built with **React** and **Vite**. It showc
 
 ## 🚀 Technologies Used
 
-[React:](https://pt-br.reactjs.org/) A JavaScript library for building user interfaces.
-[Vite:](https://vite.dev/) A build tool that provides a faster and leaner development experience for modern web projects.
-[Tailwind CSS:](https://tailwindcss.com/) A utility-first CSS framework for rapid UI development.
-[Framer Motion:](https://motion.dev/) A library for animations in React.
-[React Icons:](https://react-icons.github.io/react-icons/) A collection of popular icons for React.
-[ESLint:](https://eslint.org/) A tool for identifying and fixing problems in JavaScript code.
-[Prettier:](https://prettier.io/) An opinionated code formatter.
+- [React:](https://pt-br.reactjs.org/) A JavaScript library for building user interfaces.
+- [Vite:](https://vite.dev/) A build tool that provides a faster and leaner development experience for modern web projects.
+- [Tailwind CSS:](https://tailwindcss.com/) A utility-first CSS framework for rapid UI development.
+- [Framer Motion:](https://motion.dev/) A library for animations in React.
+- [React Icons:](https://react-icons.github.io/react-icons/) A collection of popular icons for React.
+- [ESLint:](https://eslint.org/) A tool for identifying and fixing problems in JavaScript code.
+- [Prettier:](https://prettier.io/) An opinionated code formatter.
 
 ## 🏁 Starting
 
